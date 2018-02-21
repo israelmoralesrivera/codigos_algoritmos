@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508623802 source:c:\programacion\ladders\menor a  13000\rpc\main.cpp
+	<cstdio>
+	<vector>
+	<cstdlib>
+	<iostream>
+
